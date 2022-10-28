@@ -1,0 +1,17 @@
+Metadata:
+  'AWS::CloudFormation::Designer':
+    930a0c44-f8d0-40ff-8250-e122e7887444:
+      size:
+        width: 60
+        height: 60
+      position:
+        x: 687
+        'y': 84
+      z: 0
+Resources:
+  S3B4685Q:
+    Type: 'AWS::S3::Bucket'
+    Properties: {}
+    Metadata:
+      'AWS::CloudFormation::Designer':
+        id: 930a0c44-f8d0-40ff-8250-e122e7887444
